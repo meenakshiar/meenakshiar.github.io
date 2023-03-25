@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.1f78dfb8.css",
-    "main.js": "/static/js/main.7eba8f69.js",
+    "main.js": "/static/js/main.a98d23a6.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/myNetDiary-img.png": "/static/media/myNetDiary-img.8e6be8d881548341fbb5.png",
+    "static/media/wrike-img.png": "/static/media/wrike-img.4e666e1aa77da78f8bbd.png",
     "static/media/Meenakshi_Arora_Resume.pdf": "/static/media/Meenakshi_Arora_Resume.61205bff4ef8ec651c1d.pdf",
     "static/media/Profilepicture.jpg": "/static/media/Profilepicture.5e7bc2df80502e8c9484.jpg",
     "static/media/visual-studio-code-icon.svg": "/static/media/visual-studio-code-icon.3369422dfade20c8eb7b55665fdc8190.svg",
     "index.html": "/index.html",
     "main.1f78dfb8.css.map": "/static/css/main.1f78dfb8.css.map",
-    "main.7eba8f69.js.map": "/static/js/main.7eba8f69.js.map",
+    "main.a98d23a6.js.map": "/static/js/main.a98d23a6.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f78dfb8.css",
-    "static/js/main.7eba8f69.js"
+    "static/js/main.a98d23a6.js"
   ]
 }
