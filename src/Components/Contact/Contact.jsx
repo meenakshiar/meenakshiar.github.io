@@ -32,7 +32,7 @@ import { useForm, ValidationError } from '@formspree/react';
 export default function Contact() {
   const [state, handleSubmit] = useForm("xrgvajqr");
   const { colorMode } = useColorMode();
-  const { hasCopied, onCopy } = useClipboard('meenakshiarora2707@example.com');
+  const { hasCopied, onCopy } = useClipboard('meenakshiarora2707@gmail.com');
   const [name, setName] = useState("")
   const [email, setEmail] = useState("")
   const [msg, setMsg] = useState("")
@@ -45,16 +45,9 @@ export default function Contact() {
         status: "success",
         isClosable: true,
       })
-    } else {
-      toast({
-        title: `Please fill all the fields.`,
-        status: "warning",
-        isClosable: true,
-      })
+      // window.location.reload();
     }
-
   }
-
 
   return (
     <Flex
@@ -105,7 +98,7 @@ export default function Contact() {
                     fontSize="3xl"
                     icon={<GrMail />}
                     _hover={{
-                      bg: 'blue.500',
+                      // bg: 'blue.500',
                       color: useColorModeValue('white', 'gray.700'),
                     }}
                     onClick={onCopy}
@@ -121,7 +114,7 @@ export default function Contact() {
                     fontSize="3xl"
                     icon={<SiGithub />}
                     _hover={{
-                      bg: 'blue.500',
+                      // bg: 'blue.500',
                       color: useColorModeValue('white', 'gray.700'),
                     }}
                     isRound
@@ -134,7 +127,7 @@ export default function Contact() {
                     size="lg"
                     icon={<AiFillPhone size="28px" />}
                     _hover={{
-                      bg: 'blue.500',
+                      // bg: 'blue.500',
                       color: useColorModeValue('white', 'gray.700'),
                     }}
                     isRound
@@ -147,7 +140,7 @@ export default function Contact() {
                     size="lg"
                     icon={<FaLinkedin size="28px" />}
                     _hover={{
-                      bg: 'blue',
+                      // bg: 'blue',
                       color: useColorModeValue('white', 'gray.700'),
                     }}
                     isRound

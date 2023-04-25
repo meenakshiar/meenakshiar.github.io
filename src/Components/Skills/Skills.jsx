@@ -44,7 +44,7 @@ const all = [
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
-    "Image": "https://profilinator.rishav.dev/skills-assets/mui.png",
+    "Image": "https://profilinator.rishav.dev/skills-assets/chakraui.png",
     "name": "Chakra UI"
   },
   {
@@ -53,6 +53,13 @@ const all = [
     "class-card-name": "skills-card-name",
     "Image": "https://profilinator.rishav.dev/skills-assets/mui.png",
     "name": "Material UI"
+  },
+  {
+    "class-card": "skills-card",
+    "class-card-img": "skills-card-img",
+    "class-card-name": "skills-card-name",
+    "Image": "https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png",
+    "name": "Tailwind CSS"
   },
   {
     "class-card": "skills-card",
@@ -114,7 +121,7 @@ const all = [
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
-    "Image": "http://localhost:3000/static/media/visual-studio-code-icon.3369422dfade20c8eb7b55665fdc8190.svg",
+    "Image": "https://www.svgrepo.com/show/342347/visual-studio-code.svg",
     "name": "VScode"
   },
   {
@@ -173,7 +180,7 @@ const Frontend = [
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
-    "Image": "https://profilinator.rishav.dev/skills-assets/mui.png",
+    "Image": "https://profilinator.rishav.dev/skills-assets/chakraui.png",
     "name": "Chakra UI"
   },
   {
@@ -182,6 +189,13 @@ const Frontend = [
     "class-card-name": "skills-card-name",
     "Image": "https://profilinator.rishav.dev/skills-assets/mui.png",
     "name": "Material UI"
+  },
+  {
+    "class-card": "skills-card",
+    "class-card-img": "skills-card-img",
+    "class-card-name": "skills-card-name",
+    "Image": "https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png",
+    "name": "Tailwind CSS"
   },
   {
     "class-card": "skills-card",
@@ -249,7 +263,7 @@ const tools = [
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
-    "Image": "http://localhost:3000/static/media/visual-studio-code-icon.3369422dfade20c8eb7b55665fdc8190.svg",
+    "Image": "https://www.svgrepo.com/show/342347/visual-studio-code.svg",
     "name": "VScode"
   },
   {
@@ -311,8 +325,8 @@ const Skills = () => {
               <Tab>Backend</Tab>
               <Tab>Tools</Tab>
             </TabList>
-
             <TabPanels>
+
               {/* All */}
               <TabPanel>
                 <Wrap spacing='100px' justify='center'>
@@ -348,6 +362,7 @@ const Skills = () => {
                   }
                 </Wrap>
               </TabPanel>
+
               {/* Backend */}
               <TabPanel>
                 <Wrap spacing='100px' justify='center'>

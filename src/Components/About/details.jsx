@@ -63,9 +63,9 @@ const Details = () => {
                         </Center>
                         <Text pt='2' fontSize='sm'>
                             {/* <span style={{ fontWeight: '600' }}>4+ Major Projects <br /> 30+ Mini Projects</span> */}
-                            <span style={{ fontWeight: '700', fontSize: 'large' }}>4+</span><span style={{ fontWeight: '600' }}>Major Projects</span>
+                            <span style={{ fontWeight: '700', fontSize: 'large' }}>4+ </span><span style={{ fontWeight: '600' }}>Major Projects</span>
                             <br />
-                            <span style={{ fontWeight: '700', fontSize: 'large' }}>30+</span><span style={{ fontWeight: '600' }}>Mini Projects</span>
+                            <span style={{ fontWeight: '700', fontSize: 'large' }}>30+ </span><span style={{ fontWeight: '600' }}>Mini Projects</span>
                         </Text>
                     </Box>
                 </Stack>
