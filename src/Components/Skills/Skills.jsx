@@ -10,21 +10,21 @@ const all = [
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
     "Image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
-    "name": "HTML"
+    "name": "JavaScript"
   },
   {
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
     "Image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
-    "name": "CSS"
+    "name": "HTML"
   },
   {
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
     "Image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
-    "name": "JavaScript"
+    "name": "CSS"
   },
   {
     "class-card": "skills-card",
@@ -146,21 +146,21 @@ const Frontend = [
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
     "Image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
-    "name": "HTML"
+    "name": "JavaScript"
   },
   {
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
     "Image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
-    "name": "CSS"
+    "name": "HTML"
   },
   {
     "class-card": "skills-card",
     "class-card-img": "skills-card-img",
     "class-card-name": "skills-card-name",
     "Image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
-    "name": "JavaScript"
+    "name": "CSS"
   },
   {
     "class-card": "skills-card",

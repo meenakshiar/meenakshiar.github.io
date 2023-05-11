@@ -5,6 +5,7 @@ import myNetDiary from '../../media/myNetDiary-img.png'
 import wrike from '../../media/wrike-img.png'
 import tripster from '../../media/tripster-img.png'
 import mg from '../../media/mg-img.png'
+import bolt from '../../media/bolt-img.png'
 
 const projectDetails = [
   {
@@ -14,12 +15,12 @@ const projectDetails = [
     "class-github": "project-github-link",
     "class-desc": "project-description",
     "class-deployed": "project-deployed-link",
-    "image": myNetDiary,
-    "heading": "MyNetDiary",
-    "text": "MyNetDiary is an online calorie and exercise tracker & a digital diet assistant for weight loss.",
-    "demoUrl": "https://quiet-malasada-2b16d5.netlify.app/",
-    "githubUrl": "https://github.com/meenakshiar/cared-eggs-1276",
-    "tech-stack": "HTML, CSS, JavaScript"
+    "image": bolt,
+    "heading": "Bolt - Apple.com",
+    "text": "About Apple Inc (Apple) designs, manufactures, and smartphones, tablets, personal computers (PCs), portable and wearable devices.",
+    "demoUrl": "bolt-beryl.vercel.app/",
+    "githubUrl": "https://github.com/harry-io/apple.com",
+    "tech-stack": "ReactJS, Redux, SASS, Chakra UI, NodeJS, Express, MongoDB, Swagger"
   },
   {
     "class-card": "project-card",
@@ -28,12 +29,12 @@ const projectDetails = [
     "class-github": "project-github-link",
     "class-desc": "project-description",
     "class-deployed": "project-deployed-link",
-    "image": wrike,
-    "heading": "Box-Tech - Wrike",
-    "text": "BoxTech - Clone of Wrike, A work management platform that helps business teams collaborate, plan projects and track project completion.",
-    "demoUrl": "https://beautiful-horse-f7fc52.netlify.app/",
-    "githubUrl": "https://github.com/meenakshiar/meek-furniture-9106",
-    "tech-stack": "HTML, CSS, JavaScript"
+    "image": mg,
+    "heading": "Health Prime - tata1mg",
+    "text": "About Health Prime helps you to buy medicines online and get them delivered at your doorstep anywhere in India.",
+    "demoUrl": "https://roasted-geese-6392-xh5g.vercel.app/",
+    "githubUrl": "https://github.com/meenakshiar/health-prime",
+    "tech-stack": "ReactJS, Redux, Chakra UI, NextJS, JSON Server, FireBase, "
   },
   {
     "class-card": "project-card",
@@ -56,13 +57,27 @@ const projectDetails = [
     "class-github": "project-github-link",
     "class-desc": "project-description",
     "class-deployed": "project-deployed-link",
-    "image": mg,
-    "heading": "Health Prime - tata1mg",
-    "text": "About Health Prime helps you to buy medicines online and get them delivered at your doorstep anywhere in India.",
-    "demoUrl": "https://roasted-geese-6392-xh5g.vercel.app/",
-    "githubUrl": "https://github.com/meenakshiar/health-prime",
-    "tech-stack": "ReactJS, Redux, Chakra UI, NextJS, JSON Server, FireBase, "
+    "image": wrike,
+    "heading": "Box-Tech - Wrike",
+    "text": "BoxTech - Clone of Wrike, A work management platform that helps business teams collaborate, plan projects and track project completion.",
+    "demoUrl": "https://beautiful-horse-f7fc52.netlify.app/",
+    "githubUrl": "https://github.com/meenakshiar/meek-furniture-9106",
+    "tech-stack": "HTML, CSS, JavaScript"
   },
+  {
+    "class-card": "project-card",
+    "class-title": "project-title",
+    "class-tech": "project-tech-stack",
+    "class-github": "project-github-link",
+    "class-desc": "project-description",
+    "class-deployed": "project-deployed-link",
+    "image": myNetDiary,
+    "heading": "MyNetDiary",
+    "text": "MyNetDiary is an online calorie and exercise tracker & a digital diet assistant for weight loss.",
+    "demoUrl": "https://quiet-malasada-2b16d5.netlify.app/",
+    "githubUrl": "https://github.com/meenakshiar/cared-eggs-1276",
+    "tech-stack": "HTML, CSS, JavaScript"
+  }
 ]
 
 const Projects = () => {
