@@ -110,7 +110,7 @@ export default function Navbar() {
                                 className="nav-link resume"
                                 onClick={() => {
                                     window.open(
-                                        "https://drive.google.com/file/d/1mRnh2lpHRgtCtQyYyVttWyyOOwT0mt1r/view?usp=share_link",
+                                        "https://drive.google.com/file/d/1Kyhwrjst0Kv-eUzU8B7T9R3Uvp2M_Jkz/view?usp=drive_link",
                                         "_blank"
                                     );
                                 }}
