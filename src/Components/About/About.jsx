@@ -48,6 +48,7 @@ const About = () => {
                             py='4'
                             fontWeight='600'
                             id="user-detail-intro"
+                            textAlign={'justify'}
                         >
                             As a web developer, I am skilled in developing and maintaining websites that are not only visually appealing but also user-friendly and functional. With a strong foundation in programming languages such as HTML, CSS, JavaScript, and MERN, I have the ability to create responsive designs that work across all devices and platforms. I am always looking for ways to improve my skills and knowledge.
 
