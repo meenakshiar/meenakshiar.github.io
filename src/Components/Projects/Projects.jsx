@@ -18,7 +18,7 @@ const projectDetails = [
     "image": bolt,
     "heading": "Bolt - Apple.com",
     "text": "About Apple Inc (Apple) designs, manufactures, and smartphones, tablets, personal computers (PCs), portable and wearable devices.",
-    "demoUrl": "bolt-beryl.vercel.app/",
+    "demoUrl": "https://bolt-beryl.vercel.app/",
     "githubUrl": "https://github.com/harry-io/apple.com",
     "tech-stack": "ReactJS, Redux, SASS, Chakra UI, NodeJS, Express, MongoDB, Swagger"
   },
