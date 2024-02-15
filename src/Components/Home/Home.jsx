@@ -23,17 +23,17 @@ const Home = () => {
                 backgroundImage: useColorModeValue(CONFETTI_LIGHT, CONFETTI_DARK),
                 backgroundAttachment: 'fixed',
             }}
-            // data-aos="fade-right"
-            // data-aos-duration="2000"
+        // data-aos="fade-right"
+        // data-aos-duration="2000"
         >
             <Box color={colorMode === 'light' ? '#454360' : '#cdcdff'}  >
                 <Box
                     margin={'50px auto'}
-                    width={{ xl: '45%', lg: "40%", md: "42%", sm: '42%', base: "60%" }}
+                    width={{ xl: '40%', lg: "40%", md: "42%", sm: '42%', base: "60%" }}
                 >
                     <Image
-                        borderRadius={'8%'}
-                        src='https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif'
+                        borderRadius={'50%'}
+                        src='https://i.giphy.com/hpXdHPfFI5wTABdDx9.webp'
                     />
                 </Box>
                 <Heading
